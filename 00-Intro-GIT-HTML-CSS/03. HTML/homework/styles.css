@@ -4,15 +4,13 @@ h1 {
     color: aquamarine;
 }
 
-            body {
-                background: url(https://www.metropolionline.com/media/zoo/images/MetroMedellin_285a75691606f6c059dd5648f5233d97.jpg) ;
-              }
+            
               #thirdDiv {
                   height: 600px;
                   width: 500px;
-                  color:chocolate;
+                  background-color:rgb(241, 170, 120);
                   padding: 50px;
-                  border: goldenrod;
+                  border: rgb(75, 60, 22);
               }
               #spanId {
                   font-size: 18px;
