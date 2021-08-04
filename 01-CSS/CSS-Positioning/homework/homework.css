@@ -7,17 +7,16 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
+    display: block;
+    text-aling: center;
 
 }
 
+#ejercicioDos {
 
-/* Ejercicio 2: Posicionar el header */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 3: */
+    visibility: hidden;
+}
+Ejercicio 3: */
 
 /* Acá va tu código */
 
